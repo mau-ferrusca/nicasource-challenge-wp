@@ -1,4 +1,6 @@
-Thank for your checking my code.
+# Nicasource Wordpress Challenge Part 1
+
+Thank for your checking my code. Any and every ounce of feedback will be greatly appreciated.
 
 How to deploy and test:
 
@@ -7,7 +9,7 @@ How to deploy and test:
 3) Connect database to WP installation using the following parameters:
 define( 'DB_NAME', 'bitnami_wordpress' );
 
-```
+```php
 /** Database username */
 define( 'DB_USER', 'bn_wordpress' );
 
@@ -19,8 +21,9 @@ define( 'DB_HOST', '127.0.0.1:3306' );
 ```
 
 4) Navigate to [localhost/wp-admin](https://localhost/wp-admin)
-  4.1) Use the proper port if you've changed your php defaults.
+
+4.1) Use the proper port if you've changed your php defaults.
 
 5) Log in with these credentials:
-username: admin
-password:gSwtSrx0M8Yj@^MjqvqOGx1$
+>username: admin
+>password:gSwtSrx0M8Yj@^MjqvqOGx1$
